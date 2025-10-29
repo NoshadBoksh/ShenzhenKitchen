@@ -81,7 +81,7 @@ export default function Hero() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             // CUSTOMIZE: Place your hero image at /public/images/hero-background.jpg
-            backgroundImage: `url('/images/286214_shenzhen kitchen_Hero.jpg')`,
+            backgroundImage: `url('/images/Testshenzhen kitchen_Hero.jpg')`, 
             backgroundPosition: "center top",
           }}
         />
